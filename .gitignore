@@ -1,0 +1,14 @@
+*.csv
+*.pcap
+*.zip
+*.tar
+*.gz
+data/
+datasets/
+*/data/
+*/datasets/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
